@@ -15,3 +15,15 @@
     text-align: center;
     text-shadow: 4px 4px 5px white;
 }
+
+.name_logo {
+    font-family: 'Niconne', cursive;
+    text-shadow: 4px 4px 5px white;
+    font-size: 3rem;
+    color: black;
+}
+
+.carousel {
+    width: 400px;
+    height: 300px;
+}
